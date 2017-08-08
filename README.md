@@ -13,7 +13,7 @@ for start sheduler:
 ![start](https://www.cuby-hebergs.com/dl/images/github/Facebook-sheduler/start.png)
 
 for stop sheduler:  
-> python3 main.py stop
+> python3 main.py stop  
 ![stop](https://www.cuby-hebergs.com/dl/images/github/Facebook-sheduler/stop.png)
 
 
