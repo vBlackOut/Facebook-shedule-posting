@@ -6,6 +6,7 @@ Create Post for definited the sheduled date and time
 - psutils
 - selenium
 - daemonize
+- PyFacebook
 
 
 for start sheduler:  
